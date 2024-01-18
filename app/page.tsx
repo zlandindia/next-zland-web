@@ -34,7 +34,7 @@ export default function page() {
       </div>
 
       <div className="flex flex-col items-center">
-        <div className="WeChangeTheWayHowYouFindTrustAndPayForYourNewLandsWithAiTechnology w-[357px] h-[156px] text-center text-black text-[25px] font-semibold font-['Inter'] mt-10">
+        <div className="WeChangeTheWayHowYouFindTrustAndPayForYourNewLandsWithAiTechnology w-[357px] h-[156px] text-center text-black text-[25px] font-semibold font-['Inter'] mt-8">
           We Change the Way <br />
           How You Find, Trust and Pay
           <br />
