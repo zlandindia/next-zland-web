@@ -50,6 +50,17 @@ export default function page() {
           </button>
         </Link>
       </div>
+      <div className="bg-gray-300 mt-10">
+        <div className="m-10">
+          <iframe
+            width="auto"
+            height="auto"
+            src="https://www.youtube.com/embed/g15_XQrrZgw?si=vYvmyIrzwIVTzUnS"
+            title="YouTube video player"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          ></iframe>
+        </div>
+      </div>
     </>
   );
 }
